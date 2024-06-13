@@ -115,3 +115,5 @@ function mostraResultado(){
 }
 
 mostraPergunta();
+
+a
