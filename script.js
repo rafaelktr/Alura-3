@@ -115,3 +115,4 @@ function mostraResultado(){
 }
 
 mostraPergunta();
+
